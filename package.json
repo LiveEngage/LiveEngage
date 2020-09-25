@@ -1,16 +1,15 @@
 {
-  "name": "thelounge",
+  "name": "LiveEngage",
   "description": "The self-hosted Web IRC client",
-  "version": "4.2.0",
+  "version": "1.0.0",
   "preferGlobal": true,
   "bin": {
     "thelounge": "index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thelounge/thelounge.git"
+    "url": "https://github.com/LiveEngage/thelounge.git"
   },
-  "homepage": "https://thelounge.chat/",
   "scripts": {
     "build": "webpack",
     "coverage": "run-s test:* && nyc --nycrc-path=test/.nycrc-report.json report",
@@ -37,7 +36,7 @@
   ],
   "license": "MIT",
   "engines": {
-    "node": ">=10.15.0"
+    "node": ">=10.19.0"
   },
   "dependencies": {
     "bcryptjs": "2.4.3",
