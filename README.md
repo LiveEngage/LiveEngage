@@ -1,13 +1,9 @@
-<h1 align="center">
-	<img
-		width="300"
-		alt="The Lounge"
-		src="https://raw.githubusercontent.com/thelounge/thelounge/master/client/img/logo-vertical-transparent-bg.svg?sanitize=true">
-</h1>
-
 <h3 align="center">
 	Live Engage
 </h3>
+<h4 align="center">
+	A chat repo forked from https://github.com/thelounge/thelounge.git
+</h4>
 
 ### Running from source
 
